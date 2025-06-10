@@ -33,6 +33,13 @@ We are actively building HireBharat. Stay tuned for early access and contributio
 
 ---
 
+## 👥 Contributors
+
+- [Harsh Kumar](https://github.com/haRsh-cse-rgb) – Product & Backend  
+- [Swaraj Kumar](https://github.com/Swaraj-kumar) – Frontend & UI/UX
+
+---
+
 ## 📫 Contact
 
 For collaboration or queries, reach out at **hirebharat.jobs@gmail.com**
